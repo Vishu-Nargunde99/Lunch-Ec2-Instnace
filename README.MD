@@ -4,6 +4,8 @@ Welcome to our beginner-friendly guide on setting up and accessing EC2 instances
 
 In this hands-on guide, we’ll show you how to create your own virtual computer and connect to it step by step.
 
+This is first github upload
+
 Think of EC2 instances as computers in the cloud that can run your applications. By the end of this tutorial, you’ll know how to launch your own EC2 instance and access it from anywhere.
 
 ![ec2 image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*9iUjIqntZZHAXfBN.png)
